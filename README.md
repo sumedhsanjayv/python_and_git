@@ -24,7 +24,7 @@ To start, make sure, you have installed Anaconda on your laptop! You can find it
 ### Git Bash
 
 First, open git bash and clone the repository and save it on your local machine.
-git clone https://github.com/israni/python_and_git.git
+git clone https://github.com/sumedhsanjayv/python_and_git.git
 
 Here are some useful git commands that you would require.
 
